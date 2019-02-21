@@ -1,0 +1,16 @@
+stringify method for objects
+-printing string versions of object 
+
+processsing from csv to py object
+- iterate over panda cells
+
+processsing from py to excel object
+- go over lists and fill out csv file
+
+writing assignment emails with python
+- using libraryto craft generic assignment emails
+- call email function when call assign function
+
+holding objects in a local state using pickle
+-figure out how this works
+-investigate necessity of mysql with this
